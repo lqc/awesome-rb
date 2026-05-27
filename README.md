@@ -1,6 +1,11 @@
-# Awesome Riftbound
+# Awesome RB
 
-Collection of links for Riftbound.
+Collection of awesome links for Riftbound. 
+
+## Tournaments
+
+* [Yomis Place](https://rift.yomis-place.de/) - Tournament statistics for official RQs, live per legend scores
+* [Riftdecks.com](https://riftdecks.com/riftbound-tournaments) - Latest Riftbound Tournament Results, incl. City Challanges and Online tournaments 
 
 ## Rules
 
@@ -16,8 +21,6 @@ Collection of links for Riftbound.
 * [Origins FAQ](https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-faq/)
 * [Spiritforged FAQ](https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/)
 
-
-
 ### "Unofficial" rulings
 
 * [PopCon Indy 2026](https://docs.google.com/document/d/13djxqHYEIuqPRxZ0vd6gSjCwPoHAdJpoxduUUoXI-JM/edit?usp=sharing)
@@ -27,7 +30,11 @@ Collection of links for Riftbound.
 * [Ruinrunner Compendium](https://ruinrunner.altervista.org/) - per card rulings, links to other materials
 * [Riftbound FAQ](https://www.riftboundfaq.com/) - per card rules, <https://github.com/ChristianIvicevic/riftboundfaq>
 
-## License
+### Video Explainers
+
+TBD
+
+## Legal
 
 This site was created under Riot Games’ [“Legal Jibber Jabber”](https://www.riotgames.com/en/legal)  policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.
 
