@@ -20,6 +20,7 @@ Collection of awesome links for Riftbound.
 * [Core Rules FAQ](https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/e53e7f4dc1c258c5b203e044e538f101df2cb161.pdf)
 * [Origins FAQ](https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-origins-faq/)
 * [Spiritforged FAQ](https://riftbound.leagueoflegends.com/en-us/news/rules-and-releases/riftbound-spiritforged-faq/)
+* ["Rune Battlefield" Limit Break Series – Judge FAQ](https://cdn.playloltcg.com/lol/2026/05/2026-05-11/%E3%80%8A%E7%AC%A6%E6%96%87%E6%88%98%E5%9C%BA%E3%80%8B%E7%A0%B4%E9%99%90%E7%B3%BB%E5%88%97_%E8%A3%81%E5%88%A4FAQ_260511.pdf) - May 2026
 
 ### "Unofficial" rulings
 
